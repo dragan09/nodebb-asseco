@@ -1,0 +1,3 @@
+C:\Users\dragan.anastasov\nodebb\obj\Debug\nodebbexisting.njsprojAssemblyReference.cache
+C:\Users\dragan.anastasov\nodebb\obj\Debug\nodebbexisting.njsproj.CoreCompileInputs.cache
+C:\Users\dragan.anastasov\nodebb\bin\Microsoft.NodejsTools.WebRole.dll
