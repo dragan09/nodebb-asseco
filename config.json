@@ -1,0 +1,22 @@
+{
+    "url": "http://dra-ana-ded-lt:8080",
+    "secret": "f5741c06-4fb9-4d5d-bb7c-9425213d2d1a",
+    "database": "mongo",
+	"port":"4567",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "nodebb",
+        "password": "Pexim.1",
+        "database": "nodebb",
+        "uri": ""
+    },
+	"oauth":{
+		"authorizationUrl":"http://10.69.1.101/identitydemo/connect/authorize",
+        "tokenUrl":"http://10.69.1.101/identitydemo/connect/token",
+        "userinfoUrl":"http://10.69.1.101/identitydemo/connect/userinfo",
+        "nonce":"636822043901975912.MTRkZTg2OGItMGQ1NC00YjllLWEyNTQtYmIyYTQ5NWE1OTVmYjQyMmU2MGItNzhiNy00ZjFmLWE1YmUtZjAyMjI5YmJiZTM4",
+        "scope":"openid,profile,address,roles,offline_access,multichannelmanagement"
+		
+	}
+}
